@@ -30,7 +30,7 @@ landfill_points = landfill_points.drop(columns=['DATE_ADDED_DATA'])
 
 app.vector_layer(
     data = austinTexas,
-    name = "Texas Counties",
+    name = "Austin, Texas city boundary",
     description = "A polygon showing Austin's city boundary.",
     style = {"fillColor": "#4daf4a"},
 )
@@ -49,6 +49,9 @@ app.vector_layer(
     description="Points showing where landfills are in Austin, TX.",
     style={"color": "#ff0000"},
 )
+
+
+
 
 text_1 = """
 ## About the web-app

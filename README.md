@@ -10,7 +10,7 @@ A geospatial dashboard built with Greppo showing Landfills and Recycle facilitie
 
 greppo==0.0.33
 
-Shapely==1.8.4
+Shapely==1.8.4 (be sure to use 1.8.4 or later)
 
 
 ### Installing
@@ -23,7 +23,7 @@ python -m venv venv
 Activate the virtual environment
 
 ```
-.\venv\Scripts\activate
+./venv/Scripts/activate
 ```
 install greppo
 
@@ -52,4 +52,5 @@ brackston.gis@gmail.com
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Build a geospatial dashboard in Python using Greppo](https://towardsdatascience.com/build-a-geospatial-dashboard-in-python-using-greppo-60aff44ba6c9)
+
+[Build a geospatial dashboard in Python using Greppo](https://towardsdatascience.com/build-a-geospatial-dashboard-in-python-using-greppo-60aff44ba6c9)

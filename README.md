@@ -10,7 +10,7 @@ A geospatial dashboard built with Greppo showing Landfills and Recycle facilitie
 
 greppo==0.0.33
 
-Shapely>=1.8.4 (be sure to use 1.8.4 or later)
+Shapely==1.8.4 (be sure to use 1.8.4 or later)
 
 
 ### Installing
@@ -38,7 +38,7 @@ python -m pip install greppo
 ensure Shapely is up to date
 
 ```
-pip install Shapely>=1.8.4
+pip install Shapely==1.8.4
 ```
 
 

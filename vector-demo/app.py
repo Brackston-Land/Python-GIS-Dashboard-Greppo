@@ -19,12 +19,12 @@ app.base_layer(
     provider="CartoDB Positron",
 )
 
-recycle_points = gpd.read_file(filename = "RecycleLocations.geojson", driver="GeoJSON")
+recycle_points = gpd.read_file(filename = "./vector-demo/RecycleLocations.geojson", driver="GeoJSON")
 
-austinJurisdictions = gpd.read_file(filename = "Austin_jurisdictions_20231021.geojson", driver="GeoJSON")
+austinJurisdictions = gpd.read_file(filename = "./vector-demo/Austin_jurisdictions_20231021.geojson", driver="GeoJSON")
 austinTexas = austinJurisdictions[austinJurisdictions['jurisdiction_type'] == 'FULL']
 
-landfill_points = gpd.read_file(filename = "LandfillsLocation.geojson")
+landfill_points = gpd.read_file(filename = "./vector-demo/LandfillsLocation.geojson")
 landfill_points = landfill_points.drop(columns=['DATE_ADDED_DATA'])
 
 

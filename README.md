@@ -18,6 +18,8 @@ Shapely==1.8.4 (be sure to use 1.8.4 or later)
 
 ### Installing
 
+Download zip or clone repo
+
 cd into working folder
 
 ```

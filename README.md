@@ -18,7 +18,7 @@ Shapely==1.8.4 (be sure to use 1.8.4 or later)
 cd into working folder
 
 ```
-cd Python-Geospatial-Dashboard-Greppo-master\Python-Geospatial-Dashboard-Greppo-master
+cd Downloads\Python-Geospatial-Dashboard-Greppo-master\Python-Geospatial-Dashboard-Greppo-master
 ```
 create a virtual environment
 

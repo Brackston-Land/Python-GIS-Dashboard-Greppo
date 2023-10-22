@@ -1,4 +1,4 @@
-# Python-Geospatial-Dashboard-Greppo
+# Python-GIS-Dashboard-Greppo
 
 ## Description
 

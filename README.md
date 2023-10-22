@@ -4,6 +4,9 @@
 
 A geospatial dashboard built with Greppo showing Landfills and Recycle facilities in Austin, Texas
 
+
+![Demo GIF](vector-demo/Demo_GIF.gif)
+
 ## Getting Started
 
 ### Dependencies

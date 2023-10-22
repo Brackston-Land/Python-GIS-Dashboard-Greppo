@@ -52,4 +52,4 @@ brackston.gis@gmail.com
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Build a geospatial dashboard in Python using Greppo](https://github.com/matiassingers/awesome-readme](https://towardsdatascience.com/build-a-geospatial-dashboard-in-python-using-greppo-60aff44ba6c9))
+* [Build a geospatial dashboard in Python using Greppo](https://towardsdatascience.com/build-a-geospatial-dashboard-in-python-using-greppo-60aff44ba6c9)

@@ -50,6 +50,14 @@ run greppo
 greppo serve ./vector-demo/app.py
 ```
 
+open up a browser and navigate to the provided address (ex:  http://127.0.0.1:8080/)
+
+
+
+![image](https://github.com/Brackston-Land/Python-Geospatial-Dashboard-Greppo/assets/147285744/95dbbd3b-bae7-4328-9216-5109c925ab10)
+
+
+
 ## Authors
 
 Brackston Land 
